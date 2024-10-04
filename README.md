@@ -27,7 +27,7 @@
 [Go Channel 详解](https://www.runoob.com/w3cnote/go-channel-intro.html)
 
 ## sync
-[6.2 同步原语与锁 #](https://draveness.me/golang/docs/part3-runtime/ch06-concurrency/golang-sync-primitives/)
+[6.2 同步原语与锁](https://draveness.me/golang/docs/part3-runtime/ch06-concurrency/golang-sync-primitives/)
 
 [Golang sync.WaitGroup的用法](https://studygolang.com/articles/12972#google_vignette)
 
